@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Math_116"
+author: "Sierra Green"
 date: "Fall semester"
 output: html_document
 ---
@@ -15,6 +15,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+Girt with a boyish garb for boyish task,  
+Eager she wields her spade: yet loves as well  
+Rest on the friendly knee, intent to ask  
+The tale one loves to tell.  
+  
+Rude scoffer of the seething outer strife,  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -42,3 +48,20 @@ After the day was done —
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+When I was a child  
+Everything was magical  
+Full of mystery and the unknown  
+I read hundreds of books  
+The library my haven  
+My home  
+Hours upon hours  
+Night and day  
+I read and got lost in text  
+They supplied me with adventures  
+Secret journeys  
+Fun and fairy tales  
+I absorbed the words like a sponge  
+The books were my food  
+I devoured chapters of verse  
+Engrossed in paper previously trees  
+Entered my own little world  
